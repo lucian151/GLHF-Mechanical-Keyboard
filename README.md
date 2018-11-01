@@ -1,6 +1,7 @@
 # GLHF-Mechanical-Keyboard
 Imagine a 60% without any redundancies and a no-compromises number pad. Enter the GLHF! 
-Made by Lucian Chapar and Gabriel Seltzer with assistance from the /r/mechanicalkeyboard internet community.
 
-        GLHF-Mechanical-Keyboard/GLHFConcept (1).PNG
+![alt text](https://github.com/lucian151/GLHF-Mechanical-Keyboard/blob/master/GLHFConcept%20(1).PNG)
+![alt text](https://github.com/lucian151/GLHF-Mechanical-Keyboard/blob/master/GLHFConcept%20(2).PNG)
       
+Made by Lucian Chapar and Gabriel Seltzer with assistance from the /r/mechanicalkeyboard internet community.
