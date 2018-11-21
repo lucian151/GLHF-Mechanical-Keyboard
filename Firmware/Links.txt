@@ -1,0 +1,6 @@
+Keycap Layout
+You can get the firmware here: https://github.com/Memnarch1113/qmk_firmware
+It's on the branch dev_branch, in the handwired/GLHF69 folder
+To compile, first set up your environment: https://beta.docs.qmk.fm/newbs/newbs_getting_started#set-up-your-environment
+Then, run the following line:
+make handwired/GLHF69:default

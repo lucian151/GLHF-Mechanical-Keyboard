@@ -1,0 +1,9 @@
+Laser Cut (Top Plate + Mid Plate + Bottom Plate + Raster for Top Plate): https://a360.co/2qXwCyv
+Mockup of Wrist Rest 2: https://a360.co/2qZnHfQ
+
+Keycaps:
+2.75u: https://a360.co/2R51ZTe
+R4 1u: https://a360.co/2R526OE
+6u:    https://a360.co/2qVOhGF
+
+Original keycap models: https://github.com/dankwookiee/Kieeboard

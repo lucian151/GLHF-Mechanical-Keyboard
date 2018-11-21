@@ -1,0 +1,8 @@
+Firmware: https://github.com/Memnarch1113/qmk_firmware/tree/dev_branch
+QMK Documentation: https://beta.docs.qmk.fm/
+
+Keyboard Layout Editor: http://www.keyboard-layout-editor.com
+Swill Plate & Case Builder: http://builder.swillkb.com/
+Keyboard Firmware Builder (not tested to actually build good firmware, but can visuallize the file in the firmware config folder): https://kbfirmware.com/
+
+Wookie Keycaps: https://github.com/dankwookiee/Kieeboard
