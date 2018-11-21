@@ -1,0 +1,12 @@
+1 * Teensy 2.0++
+1 * 16" x 12" x .188" Acrylic or comparable material
+12 * M3 Brass Heat-Set Threaded Inserts 
+12 * M3 12mm Button Head Bolts or 8mm if using standoffs instead
+12 * M3 6mm-10mm Nylon Standoffs (optional) 
+68/69 * Cherry MX Compatible Switches
+68/69 * Switches of your liking
+
+Obtain misc wires, solder, and heat shrink as needed. 
+We recommend using 24 or 28 AWG wires to run your row/collumn cabeling to keep it clean.  
+These are the caps we used: https://flashquark.com/product/oem-carbon-pbt-keycaps-147-keys/ 
+  Note that you will need to contact Flashquark about getting two 2.75U shift keys or alternatively buy two sets of keys.
